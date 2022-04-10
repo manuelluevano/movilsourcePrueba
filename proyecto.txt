@@ -1,0 +1,36 @@
+** Realizar una pagina, donde solo se pueda acceder con credenciales de administrador. **
+
+** Pagina principal con 2 secciones 'Hardare y Software', donde se podra ingresar la siguiente  informacion: ** 
+
+    ** El administrador podra registrar los sevicios realizados correspondientes a la seccion 'hardware o software' y se ingresara lo siguiente: **
+
+            marca, 
+            modelo, 
+            detalles, 
+            numero de serie, 
+            numero de imei, 
+            tipo de cliente (mayoreo (si no se tiene registrado, se piden datos correspondientes para su registro, publico), 
+            hora de inicio de servicio, 
+            hora de finalizacion, 
+            tipo de servicio,
+            costo de servicio,
+            tiempo de servicio (express [el cleinte se espera] o pendiente (se acuerda hora de entrega al cliente))
+                *pendiente
+                    - se debe pedir algun numeor de contacto para avisar al cleinte - se crea un boton con el cual se notofica con mensaje de whastapp.
+
+
+   ** El administrador podra registra clientes (mayoreo) **
+        nombre 
+        numero de telefono
+        direccion del local
+
+   ** El administrador podra registra nuevos servicios, modelos, marcas etc.. **
+        
+
+** Se creara una pagina de reportes, con la informacion mas relevante **
+    se enviaran por correo o whastapp a los administradores
+    que servicios se realizan mas
+    que clientes mayoreo consumen mas servicios
+    ventas semanales
+
+
